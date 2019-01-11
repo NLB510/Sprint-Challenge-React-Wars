@@ -1,0 +1,17 @@
+.character-item {
+  border: 1px solid darkgray;
+  width: 40%;
+  background: rgba(35, 35, 35, 0.42);
+  margin: 2% 2%;
+  border-radius: 8px;
+}
+
+
+.character-container {
+  display: flex;
+  width: 100%;
+  flex-wrap: wrap;
+  justify-content: center;
+}
+
+
